@@ -4,9 +4,21 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <archetypes>
     <archetype>
-      <groupId>com.sagaciouszed.bukkit</groupId>
+      <groupId>releases.com.sagaciouszed.bukkit</groupId>
       <artifactId>BukkitPlugin-archetype</artifactId>
       <version>0.0.4</version>
+      <description>SampleBukkitPlugin</description>
+    </archetype>
+    <archetype>
+      <groupId>releases.com.sagaciouszed.bukkit</groupId>
+      <artifactId>BukkitPlugin-archetype</artifactId>
+      <version>0.0.5</version>
+      <description>SampleBukkitPlugin</description>
+    </archetype>
+    <archetype>
+      <groupId>snapshots.com.sagaciouszed.bukkit</groupId>
+      <artifactId>BukkitPlugin-archetype</artifactId>
+      <version>0.0.4-SNAPSHOT</version>
       <description>SampleBukkitPlugin</description>
     </archetype>
   </archetypes>
